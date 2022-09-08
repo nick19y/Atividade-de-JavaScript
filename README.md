@@ -1,4 +1,4 @@
-# Atividade-de-JavaScript
+# Atividade-em-JavaScript
 Uma atividade que realizei pela Etec Sales Gomes
 
 
